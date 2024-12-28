@@ -491,7 +491,7 @@ class ${className}(${baseType}):
     ${(spec.notes["short"] || "").split("\n").join("\n     * ")}
     Implements a client for the \`${
         spec.name
-    } <https://microsoft.github.io/jacdac-docs/services/${
+    } <https://jacdac.github.io/jacdac-docs/services/${
         spec.shortId
     }>\`_ service.
 
@@ -663,7 +663,7 @@ namespace Jacdac.Clients
     /// ${(spec.notes["short"] || "").split("\n").join("\n     /// ")}
     /// Implements a client for the ${spec.name} service.
     /// </summary>
-    /// <seealso cref="https://microsoft.github.io/jacdac-docs/services/${
+    /// <seealso cref="https://jacdac.github.io/jacdac-docs/services/${
         spec.shortId
     }/" />
     public partial class ${className} : ${baseType}
