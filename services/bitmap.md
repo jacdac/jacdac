@@ -21,9 +21,9 @@ Gets the number of columns.
 
 ### Fill
 
-command fill @ 0x81 {
-    color: u8
-}
+    command fill @ 0x80 {
+        color: u8
+    }
 
 ### Draw line
 
