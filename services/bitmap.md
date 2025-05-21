@@ -1,13 +1,13 @@
 # Bitmap
 
-    identifier: 0xdeadbeef
+    identifier: 0x148451d0
     tags: C
     group: display
     status: experimental
 
 A color bitmap.
 
-## Dimensions
+## Registers
 
     const rows: u16 # @ 0x180
 
@@ -17,7 +17,7 @@ Gets the number of rows.
 
 Gets the number of columns.
 
-## Basic drawing commands
+## Commands
 
 ### Fill
 
