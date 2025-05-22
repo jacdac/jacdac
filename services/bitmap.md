@@ -9,13 +9,13 @@ A color bitmap.
 
 ## Registers
 
-    const rows: u16 # @ 0x180
+    const height: u16 # @ 0x180
 
-Gets the number of rows.
+Gets the height of the bitmap.
 
-    const columns: u16 # @ 0x181
+    const width: u16 # @ 0x181
 
-Gets the number of columns.
+Gets the width of the bitmap.
 
 ## Commands
 
