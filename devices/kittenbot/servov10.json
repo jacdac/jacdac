@@ -13,6 +13,10 @@
   "productIdentifiers": [
     918447378
   ],
+  "tags": [
+    "module",
+    "actuator"
+  ],
   "version": "1.0",
   "status": "stable",
   "shape": "ec30_2x3_l"

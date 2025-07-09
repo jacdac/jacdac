@@ -12,6 +12,10 @@
   "productIdentifiers": [
     983895657
   ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
   "version": "1.0",
   "status": "stable",
   "shape": "ec30_5x2_lr"

@@ -16,6 +16,10 @@
     881631743,
     1018441315
   ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
   "version": "1.0",
   "status": "stable",
   "shape": "ec30_2x2_lr"

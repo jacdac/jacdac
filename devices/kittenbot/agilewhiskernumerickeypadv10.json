@@ -19,6 +19,10 @@
   "productIdentifiers": [
     988197346
   ],
+  "tags": [
+    "module",
+    "user input"
+  ],
   "version": "1.0",
   "status": "stable"
 }

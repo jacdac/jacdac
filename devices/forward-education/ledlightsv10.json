@@ -20,6 +20,10 @@
   "productIdentifiers": [
     1054009247
   ],
+  "tags": [
+    "module",
+    "user output"
+  ],
   "version": "1.0",
   "status": "stable"
 }

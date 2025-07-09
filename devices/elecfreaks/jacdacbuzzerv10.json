@@ -5,7 +5,11 @@
   "description": "A Jacdac Buzzer.",
   "connector": "edgeLowCurrentProviderConsumer",
   "storeLink": [
+<<<<<<< HEAD
     "https://shop.elecfreaks.com/products/elecfreaks-jacdac-buzzer"
+=======
+    "https://shop.elecfreaks.com/products/jacdacbuzzer"
+>>>>>>> 377d0d7b51b6aab4410b40dd0d12da98b43037c7
   ],
   "services": [
     458731991

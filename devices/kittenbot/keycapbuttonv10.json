@@ -15,6 +15,10 @@
   "productIdentifiers": [
     926152985
   ],
+  "tags": [
+    "module",
+    "user input"
+  ],
   "version": "1.0",
   "status": "stable",
   "shape": "ec30_3x2_lr"

@@ -15,6 +15,9 @@
   "productIdentifiers": [
     935525573
   ],
+  "tags": [
+    "brain"
+  ],
   "version": "1.0",
   "status": "stable",
   "shape": "ec30_3x2_r"

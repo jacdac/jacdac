@@ -5,7 +5,11 @@
   "description": "Jacdac:bit is a micro:bit interface module for easy connection to Jacdac devices, ideal for learning and interactive projects.",
   "connector": "edgeLowCurrentProviderConsumer",
   "storeLink": [
+<<<<<<< HEAD
     "https://shop.elecfreaks.com/products/jacdac-bit-breakout-board"
+=======
+    "https://shop.elecfreaks.com/products/Jacdacbit"
+>>>>>>> 377d0d7b51b6aab4410b40dd0d12da98b43037c7
   ],
   "tags": [
     "adapter",

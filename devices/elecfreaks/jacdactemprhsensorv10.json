@@ -4,7 +4,11 @@
   "company": "ELECFREAKS",
   "description": "A Jacdac TempRH Sensor.",
   "storeLink": [
+<<<<<<< HEAD
     "https://shop.elecfreaks.com/products/jacdac-temprh-sensor"
+=======
+    "https://shop.elecfreaks.com/products/jacdactemprhsensor"
+>>>>>>> 377d0d7b51b6aab4410b40dd0d12da98b43037c7
   ],
   "services": [
     337754823,

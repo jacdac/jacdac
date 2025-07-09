@@ -22,6 +22,10 @@
   "productIdentifiers": [
     1000568338
   ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
   "version": "1.0",
   "status": "stable"
 }

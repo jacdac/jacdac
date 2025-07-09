@@ -15,6 +15,10 @@
   "productIdentifiers": [
     924243657
   ],
+  "tags": [
+    "module",
+    "user output"
+  ],
   "version": "1.0",
   "status": "stable",
   "shape": "ec30_3x3_l"
