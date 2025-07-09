@@ -1124,7 +1124,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac Accelerometer Sensor.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacaccelerometer"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-gyro-sensor"
     ],
     "services": [
       521405449
@@ -1147,7 +1147,7 @@
     "description": "Jacdac:bit is a micro:bit interface module for easy connection to Jacdac devices, ideal for learning and interactive projects.",
     "connector": "edgeLowCurrentProviderConsumer",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/Jacdacbit"
+      "https://shop.elecfreaks.com/products/jacdac-bit-breakout-board"
     ],
     "tags": [
       "adapter",
@@ -1166,7 +1166,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac Button.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacbutton"
+      "https://shop.elecfreaks.com/products/jacdac-button-sensor"
     ],
     "services": [
       343122531
@@ -1189,7 +1189,7 @@
     "description": "A Jacdac Buzzer.",
     "connector": "edgeLowCurrentProviderConsumer",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacbuzzer"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-buzzer"
     ],
     "services": [
       458731991
@@ -1233,7 +1233,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac LED Ring 8.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacledring8"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-led-ring"
     ],
     "services": [
       369743088
@@ -1255,7 +1255,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac Light Sensor.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdaclightsensor"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-light-sensor"
     ],
     "services": [
       400333340
@@ -1272,12 +1272,34 @@
     "shape": "ec30_3x2_lr"
   },
   {
+    "id": "elecfreaks-jacdacmagnetsensorv10",
+    "name": "Jacdac Magnet Sensor",
+    "company": "ELECFREAKS",
+    "description": "A Jacdac Magnet Sensor.",
+    "storeLink": [
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-magnet-sensor"
+    ],
+    "services": [
+      318642191
+    ],
+    "productIdentifiers": [
+      809663828
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable",
+    "shape": "ec30_3x2_lr"
+  },
+  {
     "id": "elecfreaks-jacdacmoisturesensorv10",
     "name": "Jacdac Moisture Sensor",
     "company": "ELECFREAKS",
     "description": "A Jacdac Motion Sensor.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacmoisturesensor"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-moisture-sensor"
     ],
     "services": [
       491430835
@@ -1299,7 +1321,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac Motion Sensor.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacmotionsensor"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-motion-sensor"
     ],
     "services": [
       293185353
@@ -1316,12 +1338,35 @@
     "shape": "ec30_3x2_lr"
   },
   {
+    "id": "elecfreaks-jacdacpowerv10",
+    "name": "Jacdac Power",
+    "company": "ELECFREAKS",
+    "description": "The power module supplies high-current JACDAC devices like servos, powers the entire system, has overcurrent protection, and offers up to 1A output.",
+    "connector": "edgeHighCurrentProvider",
+    "storeLink": [
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-power"
+    ],
+    "services": [
+      530893146
+    ],
+    "productIdentifiers": [
+      517173569
+    ],
+    "tags": [
+      "module",
+      "power"
+    ],
+    "version": "1.0",
+    "status": "stable",
+    "shape": "ec30_2x4_l2"
+  },
+  {
     "id": "elecfreaks-jacdacrotaryencoderv10",
     "name": "Jacdac Rotary Encoder",
     "company": "ELECFREAKS",
     "description": "A Jacdac Rotary Encoder.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacrotaryencoder"
+      "https://shop.elecfreaks.com/products/jacdac-rotray-encoder"
     ],
     "services": [
       284830153,
@@ -1344,7 +1389,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac Servo.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacservo"
+      "https://shop.elecfreaks.com/products/elecfreaks-jacdac-servo"
     ],
     "services": [
       318542083
@@ -1366,7 +1411,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac TempRH Sensor.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdactemprhsensor"
+      "https://shop.elecfreaks.com/products/jacdac-temprh-sensor"
     ],
     "services": [
       337754823,
@@ -1389,7 +1434,7 @@
     "company": "ELECFREAKS",
     "description": "A Jacdac UVI Sensor.",
     "storeLink": [
-      "https://shop.elecfreaks.com/products/jacdacuvisensor"
+      "https://shop.elecfreaks.com/products/jacdac-uvi-sensor"
     ],
     "services": [
       527306128
