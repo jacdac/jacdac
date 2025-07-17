@@ -1,7 +1,7 @@
 # DC Current Measurement
 
     identifier: 0x1912c8ae
-    status: experimental
+    status: stable
     extends: _sensor
     camel: dcCurrentMeasurement
     
