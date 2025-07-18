@@ -1,6 +1,6 @@
 {
   "name": "Reflected light",
-  "status": "rc",
+  "status": "stable",
   "shortId": "reflectedlight",
   "camelName": "reflectedLight",
   "shortName": "reflectedLight",

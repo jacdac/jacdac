@@ -1,6 +1,6 @@
 {
   "name": "HID Joystick",
-  "status": "experimental",
+  "status": "stable",
   "shortId": "hidjoystick",
   "camelName": "hidJoystick",
   "shortName": "hidJoystick",
