@@ -1,7 +1,7 @@
 # DC Voltage Measurement
 
     identifier: 0x1633ac19
-    status: experimental
+    status: stable
     extends: _sensor
     camel: dcVoltageMeasurement
     

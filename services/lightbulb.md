@@ -2,7 +2,7 @@
 
     identifier: 0x1cab054c
     group: light
-    status: rc
+    status: stable
 
 A light bulb controller.
 
