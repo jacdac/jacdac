@@ -1,7 +1,7 @@
 # HID Joystick
 
     identifier: 0x1a112155
-    status: experimental
+    status: stable
     camel: hidJoystick
 
 Controls a HID joystick.

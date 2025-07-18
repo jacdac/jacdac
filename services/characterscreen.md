@@ -2,7 +2,7 @@
 
     identifier: 0x1f37c56a
     group: display
-    status: rc
+    status: stable
 
 A screen that displays characters, typically a LCD/OLED character screen.
 
