@@ -1,6 +1,6 @@
 {
   "name": "DC Voltage Measurement",
-  "status": "experimental",
+  "status": "stable",
   "shortId": "dcvoltagemeasurement",
   "camelName": "dcVoltageMeasurement",
   "shortName": "dcVoltageMeasurement",

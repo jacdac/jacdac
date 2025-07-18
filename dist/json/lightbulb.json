@@ -1,6 +1,6 @@
 {
   "name": "Light bulb",
-  "status": "rc",
+  "status": "stable",
   "shortId": "lightbulb",
   "camelName": "lightBulb",
   "shortName": "lightBulb",

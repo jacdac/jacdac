@@ -1,6 +1,6 @@
 {
   "name": "DC Current Measurement",
-  "status": "experimental",
+  "status": "stable",
   "shortId": "dccurrentmeasurement",
   "camelName": "dcCurrentMeasurement",
   "shortName": "dcCurrentMeasurement",
