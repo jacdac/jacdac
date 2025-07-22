@@ -9,7 +9,7 @@ A sensor that measures RPM (rotations per minute) of a rotor.
 
 ## Registers
 
-    ro rpm: i24.8 @ reading
+    ro rpm: i24.8 rpm @ reading
 
 The RPM reading of the sensor.
 
@@ -17,10 +17,10 @@ The RPM reading of the sensor.
     
 The amount of ticks for 1 full rotation.
 
-    const min_rpm: i24.8 @ min_reading
+    const min_rpm: i24.8 rpm @ min_reading
 
 Lowest rpm that can be reported.
 
-    const max_rpm: i24.8 @ max_reading
+    const max_rpm: i24.8 rpm @ max_reading
 
 Highest rpm that can be reported.
