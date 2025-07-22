@@ -803,6 +803,22 @@
     }
   },
   {
+    "service": "rpm",
+    "client": {
+      "name": "jacdac-rotations-per-minute",
+      "targets": [
+        "microbit",
+        "arcade",
+        "maker",
+        "calliopemini"
+      ],
+      "repo": "jacdac/pxt-jacdac/rotations-per-minute",
+      "qName": "modules.RotationsPerMinuteClient",
+      "default": "modules.rotationsPerMinute",
+      "generated": true
+    }
+  },
+  {
     "service": "satelittenavigationsystem",
     "client": {
       "name": "jacdac-sat-nav",
