@@ -20,7 +20,7 @@
 #define JD_ROTATIONS_PER_MINUTE_REG_MIN_RPM JD_REG_MIN_READING
 
 /**
- * Constant i24.8 (int32_t). Lowest rpm that can be reported.
+ * Constant i24.8 (int32_t). Highest rpm that can be reported.
  */
 #define JD_ROTATIONS_PER_MINUTE_REG_MAX_RPM JD_REG_MAX_READING
 

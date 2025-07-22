@@ -8120,7 +8120,7 @@ namespace jacdac {
         MinRpm = 0x104,
 
         /**
-         * Constant i24.8 (int32_t). Lowest rpm that can be reported.
+         * Constant i24.8 (int32_t). Highest rpm that can be reported.
          *
          * ```
          * const [maxRpm] = jdunpack<[number]>(buf, "i24.8")

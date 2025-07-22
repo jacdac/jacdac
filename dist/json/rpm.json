@@ -1,6 +1,6 @@
 {
   "name": "Rotations Per Minute",
-  "status": "experimental",
+  "status": "rc",
   "shortId": "rpm",
   "camelName": "rotationsPerMinute",
   "shortName": "rotationsPerMinute",
@@ -232,7 +232,7 @@
       "kind": "const",
       "name": "max_rpm",
       "identifier": 261,
-      "description": "Lowest rpm that can be reported.",
+      "description": "Highest rpm that can be reported.",
       "fields": [
         {
           "name": "_",
