@@ -3,7 +3,7 @@
     identifier: 0x19f8e291
     extends: _sensor
     group: movement
-    status: experimental
+    status: rc
 
 A sensor that measures RPM (rotations per minute) of a rotor.
 
@@ -23,4 +23,4 @@ Lowest rpm that can be reported.
 
     const max_rpm: i24.8 @ max_reading
 
-Lowest rpm that can be reported.
+Highest rpm that can be reported.
