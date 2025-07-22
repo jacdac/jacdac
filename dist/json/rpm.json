@@ -188,6 +188,7 @@
       "fields": [
         {
           "name": "_",
+          "unit": "rpm",
           "shift": 8,
           "type": "i24.8",
           "storage": -4
@@ -220,6 +221,7 @@
       "fields": [
         {
           "name": "_",
+          "unit": "rpm",
           "shift": 8,
           "type": "i24.8",
           "storage": -4
@@ -236,6 +238,7 @@
       "fields": [
         {
           "name": "_",
+          "unit": "rpm",
           "shift": 8,
           "type": "i24.8",
           "storage": -4

@@ -7526,7 +7526,7 @@ export namespace RoverRegPack {
 export const SRV_ROTATIONS_PER_MINUTE = 0x19f8e291
 export enum RotationsPerMinuteReg {
     /**
-     * Read-only i24.8 (int32_t). The RPM reading of the sensor.
+     * Read-only rpm i24.8 (int32_t). The RPM reading of the sensor.
      *
      * ```
      * const [rpm] = jdunpack<[number]>(buf, "i24.8")
@@ -7544,7 +7544,7 @@ export enum RotationsPerMinuteReg {
     ClicksPerTurn = 0x180,
 
     /**
-     * Constant i24.8 (int32_t). Lowest rpm that can be reported.
+     * Constant rpm i24.8 (int32_t). Lowest rpm that can be reported.
      *
      * ```
      * const [minRpm] = jdunpack<[number]>(buf, "i24.8")
@@ -7553,7 +7553,7 @@ export enum RotationsPerMinuteReg {
     MinRpm = 0x104,
 
     /**
-     * Constant i24.8 (int32_t). Highest rpm that can be reported.
+     * Constant rpm i24.8 (int32_t). Highest rpm that can be reported.
      *
      * ```
      * const [maxRpm] = jdunpack<[number]>(buf, "i24.8")

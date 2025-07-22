@@ -5,7 +5,7 @@
 #define JD_SERVICE_CLASS_ROTATIONS_PER_MINUTE  0x19f8e291
 
 /**
- * Read-only i24.8 (int32_t). The RPM reading of the sensor.
+ * Read-only rpm i24.8 (int32_t). The RPM reading of the sensor.
  */
 #define JD_ROTATIONS_PER_MINUTE_REG_RPM JD_REG_READING
 
@@ -15,12 +15,12 @@
 #define JD_ROTATIONS_PER_MINUTE_REG_CLICKS_PER_TURN 0x180
 
 /**
- * Constant i24.8 (int32_t). Lowest rpm that can be reported.
+ * Constant rpm i24.8 (int32_t). Lowest rpm that can be reported.
  */
 #define JD_ROTATIONS_PER_MINUTE_REG_MIN_RPM JD_REG_MIN_READING
 
 /**
- * Constant i24.8 (int32_t). Highest rpm that can be reported.
+ * Constant rpm i24.8 (int32_t). Highest rpm that can be reported.
  */
 #define JD_ROTATIONS_PER_MINUTE_REG_MAX_RPM JD_REG_MAX_READING
 
