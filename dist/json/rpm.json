@@ -1,9 +1,9 @@
 {
-  "name": "RPM",
+  "name": "Rotations Per Minute",
   "status": "experimental",
   "shortId": "rpm",
-  "camelName": "rPM",
-  "shortName": "rPM",
+  "camelName": "rotationsPerMinute",
+  "shortName": "rotationsPerMinute",
   "extends": [
     "_base",
     "_sensor"

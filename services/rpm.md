@@ -1,4 +1,4 @@
-# RPM
+# Rotations Per Minute
 
     identifier: 0x19f8e291
     extends: _sensor

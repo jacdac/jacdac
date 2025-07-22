@@ -8089,9 +8089,9 @@ namespace jacdac {
 
 }
 namespace jacdac {
-    // Service RPM constants
-    export const SRV_R_PM = 0x19f8e291
-    export const enum RPMReg {
+    // Service Rotations Per Minute constants
+    export const SRV_ROTATIONS_PER_MINUTE = 0x19f8e291
+    export const enum RotationsPerMinuteReg {
         /**
          * Read-only i24.8 (int32_t). The RPM reading of the sensor.
          *
@@ -8129,7 +8129,7 @@ namespace jacdac {
         MaxRpm = 0x105,
     }
 
-    export namespace RPMRegPack {
+    export namespace RotationsPerMinuteRegPack {
         /**
          * Pack format for 'rpm' data.
          */
