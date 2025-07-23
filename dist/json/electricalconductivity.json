@@ -188,7 +188,7 @@
       "fields": [
         {
           "name": "_",
-          "unit": "S/m",
+          "unit": "uS/cm",
           "shift": 10,
           "type": "u22.10",
           "storage": 4
@@ -206,7 +206,7 @@
       "fields": [
         {
           "name": "_",
-          "unit": "S/m",
+          "unit": "uS/cm",
           "shift": 10,
           "type": "u22.10",
           "storage": 4
@@ -224,7 +224,7 @@
       "fields": [
         {
           "name": "_",
-          "unit": "S/m",
+          "unit": "uS/cm",
           "shift": 10,
           "type": "u22.10",
           "storage": 4
@@ -241,7 +241,7 @@
       "fields": [
         {
           "name": "_",
-          "unit": "S/m",
+          "unit": "uS/cm",
           "shift": 10,
           "type": "u22.10",
           "storage": 4

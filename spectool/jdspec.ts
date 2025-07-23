@@ -62,6 +62,7 @@ export const unitDescription: jdspec.SMap<string> = {
     EL: "seconds (remaining battery energy level)",
     "1/s": "1 per second (event rate)",
     "S/m": "Siemens per meter (conductivity)",
+    "uS/cm": "microSiemens per centimeter (conductivity)",
     B: "Byte (information content)",
     VA: "volt-ampere (Apparent Power)",
     VAs: "volt-ampere second (Apparent Energy)",

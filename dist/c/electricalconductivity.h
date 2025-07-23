@@ -5,22 +5,22 @@
 #define JD_SERVICE_CLASS_ELECTRICAL_CONDUCTIVITY  0x1f1f7277
 
 /**
- * Read-only S/m u22.10 (uint32_t). The EC reading of the sensor.
+ * Read-only uS/cm u22.10 (uint32_t). The EC reading of the sensor.
  */
 #define JD_ELECTRICAL_CONDUCTIVITY_REG_ELECTRICAL_CONDUCTIVITY JD_REG_READING
 
 /**
- * Read-only S/m u22.10 (uint32_t). The error on the EC reading.
+ * Read-only uS/cm u22.10 (uint32_t). The error on the EC reading.
  */
 #define JD_ELECTRICAL_CONDUCTIVITY_REG_ELECTRICAL_CONDUCTIVITY_ERROR JD_REG_READING_ERROR
 
 /**
- * Constant S/m u22.10 (uint32_t). Lowest EC that can be reported.
+ * Constant uS/cm u22.10 (uint32_t). Lowest EC that can be reported.
  */
 #define JD_ELECTRICAL_CONDUCTIVITY_REG_MIN_ELECTRICAL_CONDUCTIVITY JD_REG_MIN_READING
 
 /**
- * Constant S/m u22.10 (uint32_t). Highest EC that can be reported.
+ * Constant uS/cm u22.10 (uint32_t). Highest EC that can be reported.
  */
 #define JD_ELECTRICAL_CONDUCTIVITY_REG_MAX_ELECTRICAL_CONDUCTIVITY JD_REG_MAX_READING
 
