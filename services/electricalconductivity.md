@@ -3,6 +3,7 @@
     identifier: 0x1e9778c5
     extends: _sensor
     group: environment
+    status: rc
 
 A sensor that measures electrical conductivity (EC) of a medium.
 
