@@ -1,6 +1,6 @@
 # Electrical Conductivity
 
-    identifier: 0x1e9778c5
+    identifier: 0x1f1f7277
     extends: _sensor
     group: environment
     status: rc

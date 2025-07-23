@@ -314,6 +314,22 @@
     }
   },
   {
+    "service": "electricalconductivity",
+    "client": {
+      "name": "jacdac-electrical-conductivity",
+      "targets": [
+        "microbit",
+        "arcade",
+        "maker",
+        "calliopemini"
+      ],
+      "repo": "jacdac/pxt-jacdac/electrical-conductivity",
+      "qName": "modules.ElectricalConductivityClient",
+      "default": "modules.electricalConductivity",
+      "generated": true
+    }
+  },
+  {
     "service": "flex",
     "client": {
       "name": "jacdac-flex",
