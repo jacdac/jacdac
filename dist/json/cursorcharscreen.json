@@ -1,6 +1,6 @@
 {
   "name": "Cursor Character Screen",
-  "status": "stable",
+  "status": "rc",
   "shortId": "cursorcharscreen",
   "camelName": "cursorCharacterScreen",
   "shortName": "cursorCharacterScreen",
