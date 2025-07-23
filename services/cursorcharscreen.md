@@ -1,4 +1,4 @@
-# Character Screen
+# Cursor Character Screen
 
     identifier: 0x195ee163
     group: display
