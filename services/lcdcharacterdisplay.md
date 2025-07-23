@@ -16,23 +16,6 @@ Text to show.
 
 Enable or disable the screen.
 
-    enum Variant : u8 {
-        LCD = 1,
-        OLED = 2,
-        Braille = 3,
-    }
-    const variant?: Variant @ variant
-
-Describes the type of character LED screen.
-
-    enum TextDirection : u8 {
-        LeftToRight = 1,
-        RightToLeft = 2
-    }
-    rw text_direction?: TextDirection @ 0x82
-
-Specifies the RTL or LTR direction of the text.
-
     const rows: u8 # @ 0x180
 
 Gets the number of rows.
