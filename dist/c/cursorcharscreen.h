@@ -5,11 +5,6 @@
 #define JD_SERVICE_CLASS_CURSOR_CHARACTER_SCREEN  0x195ee163
 
 /**
- * Read-write string (bytes). Text to show.
- */
-#define JD_CURSOR_CHARACTER_SCREEN_REG_MESSAGE JD_REG_VALUE
-
-/**
  * Read-write ratio u0.16 (uint16_t). Enable or disable the screen.
  */
 #define JD_CURSOR_CHARACTER_SCREEN_REG_ENABLED JD_REG_INTENSITY
@@ -43,5 +38,10 @@ typedef struct jd_cursor_character_screen_set_cursor {
     uint8_t y;
 } jd_cursor_character_screen_set_cursor_t;
 
+
+/**
+ * Argument: message string (bytes). Shows a message at the current cursor position.
+ */
+#define JD_CURSOR_CHARACTER_SCREEN_CMD_SHOW 0x86
 
 #endif

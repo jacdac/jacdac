@@ -202,6 +202,22 @@
     }
   },
   {
+    "service": "cursorcharscreen",
+    "client": {
+      "name": "jacdac-cursor-character-screen",
+      "targets": [
+        "microbit",
+        "arcade",
+        "maker",
+        "calliopemini"
+      ],
+      "repo": "jacdac/pxt-jacdac/cursor-character-screen",
+      "qName": "modules.CursorCharacterScreenClient",
+      "default": "modules.cursorCharacterScreen",
+      "generated": true
+    }
+  },
+  {
     "service": "dccurrentmeasurement",
     "client": {
       "name": "jacdac-dc-current-measurement",

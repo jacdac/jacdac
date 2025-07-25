@@ -121,21 +121,6 @@
     },
     {
       "kind": "rw",
-      "name": "message",
-      "identifier": 2,
-      "description": "Text to show.",
-      "fields": [
-        {
-          "name": "_",
-          "type": "string",
-          "storage": 0
-        }
-      ],
-      "identifierName": "value",
-      "packFormat": "s"
-    },
-    {
-      "kind": "rw",
       "name": "enabled",
       "identifier": 1,
       "description": "Enable or disable the screen.",
@@ -218,6 +203,20 @@
         }
       ],
       "packFormat": "u8 u8"
+    },
+    {
+      "kind": "command",
+      "name": "show",
+      "identifier": 134,
+      "description": "Shows a message at the current cursor position.",
+      "fields": [
+        {
+          "name": "message",
+          "type": "string",
+          "storage": 0
+        }
+      ],
+      "packFormat": "s"
     }
   ],
   "tags": [],

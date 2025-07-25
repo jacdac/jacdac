@@ -8,7 +8,7 @@ A screen that displays characters, typically a LCD/OLED character screen.
 
 ## Registers
 
-    rw enabled: boolean 
+    rw enabled?: u0.16 / @ intensity
 
 Enable or disable the screen.
 
