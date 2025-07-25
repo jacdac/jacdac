@@ -8,11 +8,7 @@ A screen that displays characters, typically a LCD/OLED character screen.
 
 ## Registers
 
-    rw message: string @ value
-
-Text to show.
-
-    rw enabled?: u0.16 / @ intensity
+    rw enabled: boolean 
 
 Enable or disable the screen.
 
@@ -40,3 +36,9 @@ Clears the display.
     }
 
 Sets the x / y position of cursor in the character grid.
+
+    command show @ 0x86 {
+        message: string
+    }
+
+Shows a message at the current cursor position.
