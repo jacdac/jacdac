@@ -2117,6 +2117,7 @@ export function normalizeDeviceSpecification(dev: jdspec.DeviceSpec) {
         productIdentifiers: productIdentifiers,
         transport: dev.transport,
         tags: dev.tags,
+        hardwareTags: dev.hardwareTags,
         firmwares: dev.firmwares,
         version: dev.version ? dev.version.replace(/^v/, "") : undefined,
         designIdentifier: dev.designIdentifier || undefined,

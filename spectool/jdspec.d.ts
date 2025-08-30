@@ -776,6 +776,11 @@ declare namespace jdspec {
          * Optional list of tags
          */
         tags?: string[]
+        
+        /**
+         * Optional list of tags for describing hardware features
+         */
+        hardwareTags?: string[]
 
         /**
          * Optiona list of firmware binaries
