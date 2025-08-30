@@ -24,6 +24,9 @@
     "module",
     "user output"
   ],
+  "hardwareTags": [
+    "LED ring 8 pixels"
+  ],
   "version": "1.0",
   "status": "stable"
 }
