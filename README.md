@@ -6,7 +6,7 @@ with applications to rapid prototyping, making, and physical computing.
 
 This repository contains the service specifications and device definitions.
 
-* Read online documentation at TBD
+* Read online documentation at https://jacdac.github.io/jacdac-docs/ 
 * Join the dicussions as https://github.com/jacdac/jacdac/discussions
 * File an issue at https://github.com/jacdac/jacdac/issues
 
