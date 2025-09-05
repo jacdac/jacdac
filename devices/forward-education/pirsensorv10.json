@@ -1,0 +1,22 @@
+{
+  "id": "forward-education-pirsensorv10",
+  "name": "PIR Sensor",
+  "company": "Forward Education",
+  "description": "PIR Sensor is a sensor module and probe compatible with the jacdac framework and part of the sensor module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    293185353
+  ],
+  "productIdentifiers": [
+    884222425
+  ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
+  "version": "1.0",
+  "status": "stable"
+}

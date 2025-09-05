@@ -1,0 +1,22 @@
+{
+  "id": "forward-education-colorsensorv10",
+  "name": "Color Sensor",
+  "company": "Forward Education",
+  "description": "Color sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    372299111
+  ],
+  "productIdentifiers": [
+    969227734
+  ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
+  "version": "1.0",
+  "status": "stable"
+}

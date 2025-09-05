@@ -1,0 +1,22 @@
+{
+  "id": "forward-education-ecsensorv10",
+  "name": "EC Sensor",
+  "company": "Forward Education",
+  "description": "EC Sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    522154615
+  ],
+  "productIdentifiers": [
+    884234713
+  ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
+  "version": "1.0",
+  "status": "stable"
+}
