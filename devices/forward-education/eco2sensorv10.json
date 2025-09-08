@@ -1,0 +1,22 @@
+{
+  "id": "forward-education-eco2sensorv10",
+  "name": "eCO2 Sensor",
+  "company": "Forward Education",
+  "description": "eCO2 sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    379362758
+  ],
+  "productIdentifiers": [
+    888429017
+  ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
+  "version": "1.0",
+  "status": "stable"
+}
