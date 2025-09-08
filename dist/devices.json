@@ -777,6 +777,28 @@
     ]
   },
   {
+    "id": "forward-education-colorsensorv10",
+    "name": "Color Sensor",
+    "company": "Forward Education",
+    "description": "Color sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      372299111
+    ],
+    "productIdentifiers": [
+      969227734
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
     "id": "forward-education-dialbuttonv10",
     "name": "Dial Button",
     "company": "Forward Education",
@@ -802,6 +824,50 @@
     "tags": [
       "module",
       "user input"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-eco2sensorv10",
+    "name": "eCO2 Sensor",
+    "company": "Forward Education",
+    "description": "eCO2 sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      379362758
+    ],
+    "productIdentifiers": [
+      888429017
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-ecsensorv10",
+    "name": "EC Sensor",
+    "company": "Forward Education",
+    "description": "EC Sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      522154615
+    ],
+    "productIdentifiers": [
+      884234713
+    ],
+    "tags": [
+      "module",
+      "sensor"
     ],
     "version": "1.0",
     "status": "stable"
@@ -845,6 +911,28 @@
     "tags": [
       "module",
       "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-lcdcharacterscreenv10",
+    "name": "LCD Character Screen",
+    "company": "Forward Education",
+    "description": "LCD Characer Screen is a display module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      425648483
+    ],
+    "productIdentifiers": [
+      884648402
+    ],
+    "tags": [
+      "module",
+      "user output"
     ],
     "version": "1.0",
     "status": "stable"
@@ -1005,6 +1093,50 @@
     ],
     "productIdentifiers": [
       1067983758
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-pirsensorv10",
+    "name": "PIR Sensor",
+    "company": "Forward Education",
+    "description": "PIR Sensor is a sensor module and probe compatible with the jacdac framework and part of the sensor module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      293185353
+    ],
+    "productIdentifiers": [
+      884222425
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-rpmsensorv10",
+    "name": "RPM Sensor",
+    "company": "Forward Education",
+    "description": "RPM Sensor is a sensor module compatible with the jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      435741329
+    ],
+    "productIdentifiers": [
+      972612241
     ],
     "tags": [
       "module",
