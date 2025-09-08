@@ -1,6 +1,6 @@
 {
   "name": "Cursor Character Screen",
-  "status": "rc",
+  "status": "stable",
   "shortId": "cursorcharscreen",
   "camelName": "cursorCharacterScreen",
   "shortName": "cursorCharacterScreen",
@@ -8,7 +8,7 @@
     "_base"
   ],
   "notes": {
-    "short": "A screen that displays characters, typically a LCD/OLED character screen."
+    "short": "An addressable LCD screen, with cursor position."
   },
   "classIdentifier": 425648483,
   "enums": {},

@@ -2,7 +2,7 @@
   "id": "forward-education-phsensorv10",
   "name": "pH Sensor",
   "company": "Forward Education",
-  "description": "pH Sensor is a sensor module and probe compatible with the jacdac framework and part of the sensor module ecosystem by Forward Education",
+  "description": "pH Sensor is a sensor module and probe compatible with the Jacdac framework and part of the sensor module ecosystem by Forward Education",
   "link": "https://forwardedu.com/",
   "storeLink": [
     "https://forwardedu.com/collections/"

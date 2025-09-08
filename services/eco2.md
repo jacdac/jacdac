@@ -7,7 +7,7 @@ Measures equivalent CO₂ levels.
     camel: eCO2
     group: environment
     tags: 8bit
-    status: rc
+    status: stable
 
 ## Registers
 

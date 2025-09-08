@@ -1,6 +1,6 @@
 {
   "name": "Rotations Per Minute",
-  "status": "rc",
+  "status": "stable",
   "shortId": "rpm",
   "camelName": "rotationsPerMinute",
   "shortName": "rotationsPerMinute",

@@ -1,6 +1,6 @@
 {
   "name": "Motion",
-  "status": "experimental",
+  "status": "stable",
   "shortId": "motion",
   "camelName": "motion",
   "shortName": "motion",

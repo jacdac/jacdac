@@ -1,6 +1,6 @@
 {
   "name": "Electrical Conductivity",
-  "status": "rc",
+  "status": "stable",
   "shortId": "electricalconductivity",
   "camelName": "electricalConductivity",
   "shortName": "electricalConductivity",

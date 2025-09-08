@@ -3,7 +3,7 @@
     identifier: 0x1f1f7277
     extends: _sensor
     group: environment
-    status: rc
+    status: stable
 
 A sensor that measures electrical conductivity (EC) of a medium.
 

@@ -2,9 +2,9 @@
 
     identifier: 0x195ee163
     group: display
-    status: rc
+    status: stable
 
-A screen that displays characters, typically a LCD/OLED character screen.
+An addressable LCD screen, with cursor position.
 
 ## Registers
 

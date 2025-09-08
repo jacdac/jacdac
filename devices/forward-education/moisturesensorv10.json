@@ -2,7 +2,7 @@
   "id": "forward-education-moisturesensorv10",
   "name": "Moisture Sensor",
   "company": "Forward Education",
-  "description": "Moisture Sensor is a capacitive soil moisture sensor compatible with the jacdac framework and part of the Climate Action Kit by Forward Education\n",
+  "description": "Moisture Sensor is a capacitive soil moisture sensor compatible with the Jacdac framework and part of the Climate Action Kit by Forward Education\n",
   "makeCodeRepo": [
     {
       "target": "microbit",

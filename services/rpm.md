@@ -3,7 +3,7 @@
     identifier: 0x19f8e291
     extends: _sensor
     group: movement
-    status: rc
+    status: stable
 
 A sensor that measures RPM (rotations per minute) of a rotor.
 
