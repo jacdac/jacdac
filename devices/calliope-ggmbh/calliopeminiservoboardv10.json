@@ -1,0 +1,20 @@
+{
+  "id": "calliope-ggmbh-calliopeminiservoboardv10",
+  "name": "Calliope mini servoboard",
+  "company": "Calliope gGmbH",
+  "description": "The Calliope mini ServoBoard allows control of up to 4 servo motors and 2 motors.\nConnect the ServoBoard to the pin header on the back of the Calliope mini.",
+  "connector": "noConnector",
+  "link": "https://calliope.cc/calliope-mini/erweiterungen/servoboard",
+  "storeLink": [
+    "https://webshop.calliope.cc/Calliope-mini-Servoboard-Box"
+  ],
+  "services": [
+    355063095,
+    318542083
+  ],
+  "productIdentifiers": [
+    845745168
+  ],
+  "version": "1.0",
+  "status": "stable"
+}
