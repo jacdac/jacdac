@@ -37,20 +37,24 @@ The number of stop bits at the end of a frame. Either 1 or 2.
 
 The parity mode.
 
-    rw buffer_size: u8 # @ 0x84
+    rw buffer_size: u32 # @ 0x84
     
 A positive, non-zero value indicating the size of the read and write buffers that should be created.
+
+    const max_buffer_size: u32 # @ 0x180
+
+The maximum buffer size supported by the service.
 
 ## Commands
 
     unique command send @ 0x80 {
-        data: bytes
+        data: pipe
     }
 
 Send a buffer of data over the serial transport.
 
     report received @ 0x80 {
-       data: bytes
+       data: pipe
     }
     
 Raised when a buffer of data is received.

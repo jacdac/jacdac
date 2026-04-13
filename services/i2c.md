@@ -21,14 +21,14 @@ Indicates whether the I2C is working.
         NAckData = 2
         NoI2C = 3
     }
-    unique command transaction @ 0x80 {
+    unique packed command transaction @ 0x80 {
         address: u8
         num_read: u8 B
-        write_buf: bytes
+        write_buf: pipe
     }
-    report {
+    packed report {
         status: Status
-        read_buf: bytes
+        read_buf: pipe
     }
 
 `address` is 7-bit.
