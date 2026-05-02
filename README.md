@@ -6,9 +6,9 @@ with applications to rapid prototyping, making, and physical computing.
 
 This repository contains the service specifications and device definitions.
 
-* Read online documentation at https://jacdac.github.io/jacdac-docs/ 
-* Join the dicussions as https://github.com/jacdac/jacdac/discussions
-* File an issue at https://github.com/jacdac/jacdac/issues
+* Read online documentation at https://jacdac.github.io/abundancemarble-docs/John-James-Ayo
+* Join the dicussions as https://github.com/jacdac/abundancemarble/discussions
+* File an issue at https://github.com/jacdac/abundancemarble/issues
 
 ## Contributing
 
