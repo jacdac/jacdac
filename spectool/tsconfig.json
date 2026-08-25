@@ -8,8 +8,8 @@
         "noImplicitThis": true,
         "noImplicitAny": true,
         "types": [ ],
-        "module": "esnext",
-        "moduleResolution": "bundler"
+        "module": "commonjs",
+        "moduleResolution": "node"
     },
     "include": [
         "*.ts"
