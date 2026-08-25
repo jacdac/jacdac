@@ -1,0 +1,13 @@
+{
+  "id": "forward-education-flexv10",
+  "name": "Flex",
+  "company": "Forward Education",
+  "description": "Flex is a flex sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": ["https://forwardedu.com/collections/"],
+  "services": [524797638],
+  "productIdentifiers": [990704158],
+  "tags": ["module", "sensor"],
+  "version": "1.0",
+  "status": "stable"
+}

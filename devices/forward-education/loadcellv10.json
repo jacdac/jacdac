@@ -1,0 +1,13 @@
+{
+  "id": "forward-education-loadcellv10",
+  "name": "Load Cell",
+  "company": "Forward Education",
+  "description": "Load Cell is a force and weight sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": ["https://forwardedu.com/collections/"],
+  "services": [525160512],
+  "productIdentifiers": [885296573],
+  "tags": ["module", "sensor"],
+  "version": "1.0",
+  "status": "stable"
+}

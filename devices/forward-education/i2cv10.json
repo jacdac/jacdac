@@ -1,0 +1,13 @@
+{
+  "id": "forward-education-i2cv10",
+  "name": "I2C",
+  "company": "Forward Education",
+  "description": "I2C is an I2C bus adapter module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": ["https://forwardedu.com/collections/"],
+  "services": [471386691],
+  "productIdentifiers": [884222634],
+  "tags": ["module", "adapter"],
+  "version": "1.0",
+  "status": "stable"
+}

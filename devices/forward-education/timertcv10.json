@@ -1,0 +1,13 @@
+{
+  "id": "forward-education-timertcv10",
+  "name": "Time RTC",
+  "company": "Forward Education",
+  "description": "Time RTC is a real time clock module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": ["https://forwardedu.com/collections/"],
+  "services": [445323816],
+  "productIdentifiers": [976194561],
+  "tags": ["module"],
+  "version": "1.0",
+  "status": "stable"
+}
