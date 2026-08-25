@@ -1,0 +1,22 @@
+{
+  "id": "forward-education-dpadv10",
+  "name": "D-Pad",
+  "company": "Forward Education",
+  "description": "D-Pad is a directional pad input module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+  "link": "https://forwardedu.com/",
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    277836886
+  ],
+  "productIdentifiers": [
+    818512728
+  ],
+  "tags": [
+    "module",
+    "user input"
+  ],
+  "version": "1.0",
+  "status": "stable"
+}
