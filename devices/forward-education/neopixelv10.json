@@ -4,10 +4,19 @@
   "company": "Forward Education",
   "description": "Neopixel is an addressable RGB LED module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
   "link": "https://forwardedu.com/",
-  "storeLink": ["https://forwardedu.com/collections/"],
-  "services": [369743088],
-  "productIdentifiers": [862371172],
-  "tags": ["module", "user output"],
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    369743088
+  ],
+  "productIdentifiers": [
+    862371172
+  ],
+  "tags": [
+    "module",
+    "user output"
+  ],
   "version": "1.0",
   "status": "stable"
 }

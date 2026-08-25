@@ -8,8 +8,10 @@
         "outDir": "built",
         "noImplicitThis": true,
         "noImplicitAny": true,
+        "strictNullChecks": false,
+        "useUnknownInCatchVariables": false,
         "types": [ ],
-        "moduleResolution": "node"
+        "moduleResolution": "bundler"
     },
     "include": [
         "*.ts"

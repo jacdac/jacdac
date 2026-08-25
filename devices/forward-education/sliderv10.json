@@ -4,10 +4,19 @@
   "company": "Forward Education",
   "description": "Slider is a linear potentiometer input module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
   "link": "https://forwardedu.com/",
-  "storeLink": ["https://forwardedu.com/collections/"],
-  "services": [522667846],
-  "productIdentifiers": [885275322],
-  "tags": ["module", "user input"],
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    522667846
+  ],
+  "productIdentifiers": [
+    885275322
+  ],
+  "tags": [
+    "module",
+    "user input"
+  ],
   "version": "1.0",
   "status": "stable"
 }

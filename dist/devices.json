@@ -707,6 +707,30 @@
     ]
   },
   {
+    "id": "forward-education-temperaturehumiditypressurev10",
+    "name": "Temperature, Humidity, Pressure",
+    "company": "Forward Education",
+    "description": "Temperature, Humidity, Pressure is a combined temperature, humidity and pressure sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      337754823,
+      382210232,
+      504462570
+    ],
+    "productIdentifiers": [
+      921984170
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
     "id": "forward-education-breakoutboardrelaypumpv10",
     "name": "Breakout Board + Relay + Pump",
     "company": "Forward Education",
@@ -829,6 +853,28 @@
     "status": "stable"
   },
   {
+    "id": "forward-education-dpadv10",
+    "name": "D-Pad",
+    "company": "Forward Education",
+    "description": "D-Pad is a directional pad input module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      277836886
+    ],
+    "productIdentifiers": [
+      818512728
+    ],
+    "tags": [
+      "module",
+      "user input"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
     "id": "forward-education-eco2sensorv10",
     "name": "eCO2 Sensor",
     "company": "Forward Education",
@@ -892,6 +938,28 @@
     "status": "stable"
   },
   {
+    "id": "forward-education-flexv10",
+    "name": "Flex",
+    "company": "Forward Education",
+    "description": "Flex is a flex sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      524797638
+    ],
+    "productIdentifiers": [
+      990704158
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
     "id": "forward-education-floatsensorv10",
     "name": "Float Sensor",
     "company": "Forward Education",
@@ -911,6 +979,28 @@
     "tags": [
       "module",
       "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-i2cv10",
+    "name": "I2C",
+    "company": "Forward Education",
+    "description": "I2C is an I2C bus adapter module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      471386691
+    ],
+    "productIdentifiers": [
+      884222634
+    ],
+    "tags": [
+      "module",
+      "adapter"
     ],
     "version": "1.0",
     "status": "stable"
@@ -996,6 +1086,28 @@
     "status": "stable"
   },
   {
+    "id": "forward-education-lightluxv10",
+    "name": "Light Lux",
+    "company": "Forward Education",
+    "description": "Light Lux is an illuminance sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      510577394
+    ],
+    "productIdentifiers": [
+      972250329
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
     "id": "forward-education-lightsv10",
     "name": "Lights",
     "company": "Forward Education",
@@ -1051,6 +1163,28 @@
     "status": "stable"
   },
   {
+    "id": "forward-education-loadcellv10",
+    "name": "Load Cell",
+    "company": "Forward Education",
+    "description": "Load Cell is a force and weight sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      525160512
+    ],
+    "productIdentifiers": [
+      885296573
+    ],
+    "tags": [
+      "module",
+      "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
     "id": "forward-education-moisturesensorv10",
     "name": "Moisture Sensor",
     "company": "Forward Education",
@@ -1075,6 +1209,28 @@
     "tags": [
       "module",
       "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-neopixelv10",
+    "name": "Neopixel",
+    "company": "Forward Education",
+    "description": "Neopixel is an addressable RGB LED module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      369743088
+    ],
+    "productIdentifiers": [
+      862371172
+    ],
+    "tags": [
+      "module",
+      "user output"
     ],
     "version": "1.0",
     "status": "stable"
@@ -1141,6 +1297,28 @@
     "tags": [
       "module",
       "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-sliderv10",
+    "name": "Slider",
+    "company": "Forward Education",
+    "description": "Slider is a linear potentiometer input module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      522667846
+    ],
+    "productIdentifiers": [
+      885275322
+    ],
+    "tags": [
+      "module",
+      "user input"
     ],
     "version": "1.0",
     "status": "stable"
@@ -1223,6 +1401,27 @@
     "tags": [
       "module",
       "sensor"
+    ],
+    "version": "1.0",
+    "status": "stable"
+  },
+  {
+    "id": "forward-education-timertcv10",
+    "name": "Time RTC",
+    "company": "Forward Education",
+    "description": "Time RTC is a real time clock module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
+    "link": "https://forwardedu.com/",
+    "storeLink": [
+      "https://forwardedu.com/collections/"
+    ],
+    "services": [
+      445323816
+    ],
+    "productIdentifiers": [
+      976194561
+    ],
+    "tags": [
+      "module"
     ],
     "version": "1.0",
     "status": "stable"

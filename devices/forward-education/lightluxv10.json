@@ -4,10 +4,19 @@
   "company": "Forward Education",
   "description": "Light Lux is an illuminance sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
   "link": "https://forwardedu.com/",
-  "storeLink": ["https://forwardedu.com/collections/"],
-  "services": [510577394],
-  "productIdentifiers": [972250329],
-  "tags": ["module", "sensor"],
+  "storeLink": [
+    "https://forwardedu.com/collections/"
+  ],
+  "services": [
+    510577394
+  ],
+  "productIdentifiers": [
+    972250329
+  ],
+  "tags": [
+    "module",
+    "sensor"
+  ],
   "version": "1.0",
   "status": "stable"
 }
