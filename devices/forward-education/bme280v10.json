@@ -1,5 +1,5 @@
 {
-  "id": "forward-education-bme280v10",
+  "id": "forward-education-temperaturehumiditypressurev10",
   "name": "Temperature, Humidity, Pressure",
   "company": "Forward Education",
   "description": "Temperature, Humidity, Pressure is a combined temperature, humidity and pressure sensor module compatible with the Jacdac framework and part of the module ecosystem by Forward Education",
