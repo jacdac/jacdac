@@ -938,6 +938,46 @@
     "status": "stable"
   },
   {
+    "id": "forward-education-fifafoundationbreakoutv10",
+    "name": "FIFA Foundation Breakout",
+    "company": "Forward Education",
+    "description": "FIFA Foundation Breakout is a micro:bit V2 robotics carrier board compatible with the Jacdac framework and part of the FIFA Foundation Digital Education Programme kit by Forward Education",
+    "makeCodeRepo": [
+      {
+        "target": "microbit",
+        "name": "fwd-fifa",
+        "slug": "forward-education/pxt-fwd-fifa"
+      }
+    ],
+    "connector": "edgeHighCurrentProvider",
+    "link": "https://forwardedu.com",
+    "services": [
+      318542083,
+      406840918,
+      372485145
+    ],
+    "productIdentifiers": [
+      933425659
+    ],
+    "tags": [
+      "adapter",
+      "microbit"
+    ],
+    "hardwareTags": [
+      "2 encoded motor ports",
+      "3 servo ports",
+      "relay port",
+      "4 Jacdac ports",
+      "NeoPixel, I2C and GPIO headers",
+      "LiPo battery, USB charging"
+    ],
+    "version": "1.0",
+    "status": "stable",
+    "requiredDevices": [
+      "microbit-educational-foundation-microbitv2"
+    ]
+  },
+  {
     "id": "forward-education-flexv10",
     "name": "Flex",
     "company": "Forward Education",
