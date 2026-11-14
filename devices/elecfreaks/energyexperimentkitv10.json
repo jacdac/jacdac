@@ -1,0 +1,31 @@
+{
+  "id": "elecfreaks-energyexperimentkitv10",
+  "name": "Energy Experiment Kit",
+  "company": "ELECFREAKS",
+  "description": "Help beginners get started quickly with the micro:bit and stimulate their interest in programming and electronic components",
+  "link": "https://wiki.elecfreaks.com/en/microbit/jacdac-series/jacdac-energy-experiment-kit/",
+  "storeLink": [
+    "https://shop.elecfreaks.com/products/elecfreaks-micro-bit-jacdac-energy-practice-kit"
+  ],
+  "tags": [
+    "kit",
+    "microbit"
+  ],
+  "version": "1.0",
+  "status": "stable",
+  "devices": [
+    "elecfreaks-jacdacbitv10",
+    "elecfreaks-jacdacbuttonv10",
+    "elecfreaks-jacdaclightsensorv10",
+    "elecfreaks-jacdacledring8v10",
+    "elecfreaks-jacdacmoisturesensorv10",
+    "elecfreaks-jacdactemprhsensorv10",
+    "elecfreaks-jacdacservov10"
+  ],
+  "relatedDevices": [
+    "microbit-educational-foundation-microbitv2"
+  ],
+  "requiredDevices": [
+    "microbit-educational-foundation-microbitv2"
+  ]
+}
